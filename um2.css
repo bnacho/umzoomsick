@@ -34,7 +34,7 @@ header>ul>li{
     list-style-type:none;
     margin-left:1.5rem;
 }
-header>ul>li:first-child>a{
+header>ul>li:nth-child(2)>a{
     border-bottom:5px solid white;
 }
 header>ul>li>a:hover{
